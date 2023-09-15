@@ -1,4 +1,7 @@
 body{
     background-color: black;
     color: #DDDDDD;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
